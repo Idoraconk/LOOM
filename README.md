@@ -1,7 +1,7 @@
 ____
 ### **INSTALLING THE LATEST VERSION**
-
-To access the latest version of LOOM, you will have to have a python interpreter installed on your computer. It can be installed from the official python website: https://www.python.org/
+____
+To install the latest version of LOOM, you will need to have a python interpreter installed on your computer. It can be installed from the official python website: https://www.python.org/
 
 **NOTICE:** LOOM is only available for Windows OS, therefore, the steps described here will only be functional if performed inside the Windows Operation System.
 
