@@ -3,6 +3,8 @@ ____
 
 To access the latest version of LOOM, you will have to have a python interpreter installed on your computer. It can be installed from the official python website: https://www.python.org/
 
+**NOTICE:** LOOM is only available for Windows OS, therefore, the steps described here will only be functional if performed inside the Windows Operation System.
+
 Having a python interpreter installed, open the command prompt, select the folder of your choice to install LOOM, and type:
 
 ```
